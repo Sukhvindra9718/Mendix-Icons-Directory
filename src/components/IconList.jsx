@@ -29,7 +29,7 @@ function IconList({ iconList }) {
   }, [iconList]);
   return (
     <div className="container">
-      <h1>Icon List</h1>
+      <h1>Mendix Icon List</h1>
       <span>Click Icon Name to copy to clipboard</span>
       <div className="search-container">
         {/* Search box  */}
